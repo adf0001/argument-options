@@ -1,0 +1,23 @@
+{
+  "name": "argument-options",
+  "version": "1.0.1",
+  "description": "argument options tool",
+  "main": "argument-options.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "arguments",
+    "options"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/argument-options.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/argument-options/issues"
+  },
+  "homepage": "https://github.com/adf0001/argument-options#readme"
+}
